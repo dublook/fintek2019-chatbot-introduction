@@ -142,13 +142,18 @@ Source: https://www.wired.co.uk/article/wired-awake-141019
 
 https://azure.microsoft.com/en-us/services/bot-service/
 
+
 ### What's rule based
 ```
 if user say "hello" then
   do blah blah
 ```
 
-# [for S Grade] Integrate NLP, ML (how to handle natural language?)
+### Change code by yourself
+You can copy from this.
+https://github.com/kozy10/tokyo-atm-finder
+
+# 3. [for S Grade] Integrate NLP, ML (how to handle natural language?)
 ## Azure Bot Service: Natural language understanding
 https://www.youtube.com/watch?v=jlmSzFGtdTo
 
