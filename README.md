@@ -19,3 +19,8 @@ The documents contains information about
 ## Recommended books
 - [The Lean Startup](https://www.amazon.com/dp/B005PR422K) by Eric Ries
 - [Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/dp/B006UKFFE0/) by Ash Maurya
+
+# What's FinTEK?
+See [official website](http://fintek.keio.ac.jp/en/)
+
+> The Centre for Finance, Technology and Economics at Keio (FinTEK) is an institution for interdisciplinary research and education in fintech.
