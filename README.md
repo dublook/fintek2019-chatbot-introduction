@@ -10,3 +10,7 @@ The documents contains information about
 ## Lecture Notes by Futami
 - [First lecture](lecture-note1.md) (8 September 2019)
 - [Second lecture](lecture-note2.md) (15 October 2019)
+
+## Recommended books
+- [The Lean Startup](https://www.amazon.com/dp/B005PR422K) by Eric Ries
+- [Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/dp/B006UKFFE0/) by Ash Maurya
