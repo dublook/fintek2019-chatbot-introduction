@@ -90,7 +90,7 @@ Source: https://www.wired.co.uk/article/wired-awake-141019
   - Who wants to pay for engeeners? And what is his/her purpose?
 - Why FinTEK has rich web site? http://fintek.keio.ac.jp/en/about-activities
 
-### Working with 'Big 4' accounting company
+### Working with big accounting company
 - Due to their lack of engineers and speed for developing apps
 
 ## Conclusion of stories
