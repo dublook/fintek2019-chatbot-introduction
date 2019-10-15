@@ -11,6 +11,11 @@ The documents contains information about
 - [First lecture](lecture-note1.md) (8 September 2019)
 - [Second lecture](lecture-note2.md) (15 October 2019)
 
+## 3 Steps to start to develop chatbot
+1. Make feedback loop between your idea and users with prototype chatbot (using `LINE Bot Designer`)
+2. Develop acutual chatbot in your browser (using `Azure Bot Service`)
+3. Connect to chat services like LINE, Facebook Messengers (In this document we will focus on `LINE Messaging API` but you can choose other services)
+
 ## Recommended books
 - [The Lean Startup](https://www.amazon.com/dp/B005PR422K) by Eric Ries
 - [Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/dp/B006UKFFE0/) by Ash Maurya
