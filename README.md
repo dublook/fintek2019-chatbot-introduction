@@ -7,6 +7,6 @@ The documents contains information about
 - A solution for developing acutual chatbot (`LINE Bot` and `Azure Bot Service`)
 
 # Documents
-## Lecture Notes
+## Lecture Notes by Futami
 - [First lecture](lecture-note1.md) (8 September 2019)
 - [Second lecture](lecture-note1.md) (15 October 2019)
