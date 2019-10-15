@@ -9,4 +9,4 @@ The documents contains information about
 # Documents
 ## Lecture Notes by Futami
 - [First lecture](lecture-note1.md) (8 September 2019)
-- [Second lecture](lecture-note1.md) (15 October 2019)
+- [Second lecture](lecture-note2.md) (15 October 2019)
