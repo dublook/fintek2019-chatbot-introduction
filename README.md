@@ -10,6 +10,8 @@ The documents contains information about
 ## Lecture Notes by Futami
 - [First lecture](lecture-note1.md) (8 September 2019)
 - [Second lecture](lecture-note2.md) (15 October 2019)
+- [LINE Bot Designer sample file](fintek2019-botdesign-sample.lbd) (created in lectures)
+  - Open avobe link and click `Download` to save in your PC
 
 ## 3 Steps to start to develop chatbot
 1. Make feedback loop between your idea and users with prototype chatbot (using `LINE Bot Designer`) -> Detail Instruction (TBD)
